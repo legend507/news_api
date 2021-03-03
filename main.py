@@ -1,7 +1,6 @@
 import logging
 logging.basicConfig(level=logging.INFO)
 import os
-# os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'data-analytics-project-234508-6786750ee54c.json'
 
 from news_api_client import NewsApiCaller
 from google_cloud_nlp import getSentiment
