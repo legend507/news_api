@@ -1,0 +1,8 @@
+gcsfs
+newsapi-python
+pandas
+json-merge-patch
+json5
+jsonschema
+google-cloud-language
+fsspec
